@@ -1,7 +1,6 @@
-# QR CODE PLAYGROUND
------
+
 ### QRCODE(Version:2 ErrorCorrectionLevel:Q)
-#### by 张家荣
+#### by teeSngRovn
 ------
 * `__QRPaint__.py`用于最后整合其它文件并绘图
 * `AlphaCode_generator.py`是用于生成伽罗瓦域中$\alpha^x$及其对应值
@@ -57,4 +56,4 @@ __QRPaint__.paint('123')
 * [二维码的实现原理和实现过程](https://blog.csdn.net/bosaidongmomo/article/details/103232449)
 * [纠错码生成细节和原理](https://www.cnblogs.com/txqdm/p/8629661.html)
 * [QR TUTORIAL](https://www.thonky.com/qr-code-tutorial/)
-* [二维码生成原理](https://blog.csdn.net/ajianyingxiaoqinghan/article/details/78837864)"# PyQRCode" 
+* [二维码生成原理](https://blog.csdn.net/ajianyingxiaoqinghan/article/details/78837864)
